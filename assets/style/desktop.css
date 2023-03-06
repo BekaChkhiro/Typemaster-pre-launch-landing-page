@@ -1,0 +1,156 @@
+@media screen and (min-width: 1440px) {
+    /* header */
+
+    .header-div {
+        padding: 55px 165px 0px 165px;
+        width: 1110px;
+    }
+
+    /* typemaster content */
+
+    .typemaster-div {
+        padding: 83px 0px 40px 165px;
+        gap: 0px;
+        width: 1275px; 
+    }
+
+    /* type master image */
+    .typemaster-image-tablet {
+        display: none;
+    }
+
+    .typemaster-image {
+        width: 540px;
+        margin-right: 30px;
+    }
+
+    .typemaster-image-desktop {
+        width: 540px;
+        height: 480px;
+        border-radius: 20px;
+    }
+
+    /* desktop div */
+    
+    .desktop-div {
+        width: 255px;
+        height: 240px;
+        background-color: rgba(232, 239, 242, 1);
+        border-radius: 20px;
+        margin-right: -120px;
+    }
+
+    /* type master content */
+
+    .typemaster-content {
+        width: 445px;
+        margin-right: 125px;
+    }
+    .typemaster-content h1 {
+        width: 445px;
+        font-size: 56px;
+        line-height: 56px;
+        margin-bottom: 24px;
+    }
+
+    .typemaster-content p {
+        width: 445px;
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 40px;
+    }
+
+
+    /* mechanical keyboard */
+
+    .mechanical-keyboard {
+        padding: 0px 165px 0px 0px;
+        margin: 0px auto;
+        width: 1275px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 0px;
+    }
+
+    .desktop-div-2 {
+        width: 255px;
+        height: 236px;
+        background-color: rgba(232, 239, 242, 1);
+        margin-left: -120px;
+        margin-right: 30px;
+        margin-bottom: -240px;
+        border-radius: 20px;
+    }
+   /* mechanical keyboard images */
+   
+    .first-tablet-img, .second-tablet {
+        display: none;
+    }
+
+   .mechanical-images {
+    padding: 0px;
+    width: 765.5px;
+    gap: 0px;
+   }
+
+   .first-mobile {
+    width: 255px;
+    margin-right: 30.5px;
+   }
+
+   .first-desktop-img {
+    width: 255px;
+    height: 480px;
+    border-radius: 20px;
+    opacity: 0.25;
+   }
+
+   .second-desktop {
+    width: 445px;
+    height: 480px;
+    border-radius: 20px;
+   }
+
+   /* mechanical content */
+
+   .mechanical-content {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: 380px;
+    gap: 0px;
+   } 
+
+   .mechanical-content h2 {
+    width: 255px;
+    margin-bottom: 27px;
+   }
+
+   .mechanical-content p {
+    width: 255px;
+   }
+
+   /* specifications */
+
+   .specifications {
+    width: 1110px;
+    gap: 0px 30px;
+    padding: 168px 165px 128px 165px;
+   }
+
+   .specifications-item-image {
+    margin-bottom: 40px;
+   }
+
+   .specifications-item h3 {
+    width: 255px;
+    margin-bottom: 24px;
+   }
+
+   .specifications-item p {
+    width: 255px;
+   }
+}
